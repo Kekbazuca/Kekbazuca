@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kekbazuca
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Phyton/Pygame ;)
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning HTML/CSS/JAVA ;)
 - 📫 How to reach me Kek#2129 <--- Discord
 
 <!---
